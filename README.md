@@ -1,23 +1,11 @@
-# 👋 Hola, soy [SARAI]
+# 👋 Hola, soy Sarai 👻
 
 ## 💻 Sobre mí
 Soy estudiante de programación con interés en aprender desarrollo y tecnología.
 
-- 🚀 Actualmente aprendiendo: Git y GitHub
-- 📚 Explorando: desarrollo web
-- 🎯 Meta: Convertirme en desarrollador
-
----
-
-## 🛠️ Tecnologías que uso
-- 💻 Git
-- 🌐 GitHub
-- 🧠 Aprendiendo más cada día
-
----
-
-## 📊 Mis estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+- 🚀 Tengo 18 años
+- 📚 Me gusta leer y escuchar musica y la formula 1
+- 🌮 Me encantan los tacos
 
 ---
 
@@ -26,6 +14,4 @@ Soy estudiante de programación con interés en aprender desarrollo y tecnologí
 
 ---
 
-## ⚡ Frase
-> "Nunca pares de aprender"
 
