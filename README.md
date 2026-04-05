@@ -1,8 +1,31 @@
-❤️Hola soy Sarai
+# 👋 Hola, soy [SARAI]
 
-📚Estoy en mi primer año de ingenieria en sistemas 
+## 💻 Sobre mí
+Soy estudiante de programación con interés en aprender desarrollo y tecnología.
 
-Me gusta leer y escuchar musica
+- 🚀 Actualmente aprendiendo: Git y GitHub
+- 📚 Explorando: desarrollo web
+- 🎯 Meta: Convertirme en desarrollador
 
-Tengo 18 años
+---
+
+## 🛠️ Tecnologías que uso
+- 💻 Git
+- 🌐 GitHub
+- 🧠 Aprendiendo más cada día
+
+---
+
+## 📊 Mis estadísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
+
+---
+
+## 📫 Contacto
+- GitHub: https://github.com/Sarahenriquezz
+
+---
+
+## ⚡ Frase
+> "Nunca pares de aprender"
 
